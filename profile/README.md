@@ -6,4 +6,5 @@
 #### 🖥️ [Bot](https://github.com/open-codex/opencodex-bot)
 
 ## Other
+#### 📖 [Docs-Api](https://github.com/open-codex/docs-api)
 #### 🎨 [Art](https://github.com/open-codex/art)
