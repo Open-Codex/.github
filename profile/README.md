@@ -1,9 +1,9 @@
 # Open Codex
 
 ## Projects
-#### 🔒 [Api](https://github.com/open-codex/opencodex-api)
-#### 🌐 [Frontend](https://github.com/open-codex/opencodex-frontend) 
-#### 🖥️ [Bot](https://github.com/open-codex/opencodex-bot)
+#### 🌐 [Talent Api](https://github.com/open-codex/talent-api)
+#### 🖥️ [Frontend](https://github.com/open-codex/opencodex-frontend) 
+#### 📖 [CV Builder](https://github.com/open-codex/cv-builder)
 
 ## Other
 #### 📖 [Docs-Api](https://github.com/open-codex/docs-api)
